@@ -1,6 +1,6 @@
 # bid-buy
 
-The bid-buy component of an eBay auction page.
+The bid-buy component of a Biddr auction page.
 
 ## Related Projects
 
